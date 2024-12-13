@@ -1,0 +1,8 @@
+#chocolate,#bird,#card2,#card4{
+    height:300px;
+    width:350px;
+ }
+ #chacolate img,#bird img,#card2 img,#card4 img{
+ width:100%;
+ height:70%;
+ }
